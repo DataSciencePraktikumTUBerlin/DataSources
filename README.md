@@ -1,13 +1,8 @@
 # Project Data Sources and Data Sets
 
-## Renewable Energy Data Sources
-## Renewable Energy Data Sets
-
+## Renewable Energy 
 * **World Overview of Renewable Energy** https://ourworldindata.org/renewable-energy
-
-## Stocks Data Sources
-
+* **Misc Energy Datasets** https://openei.org/datasets/dataset?sectors=utilities&_sectors_limit=0
+## Stocks 
 * **End of Day US Stock Prices** https://www.quandl.com/data/EOD-End-of-Day-US-Stock-Prices
 * **Yahoo Finance** https://finance.yahoo.com/
-
-## Stocks Data Sets
