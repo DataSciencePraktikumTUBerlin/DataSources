@@ -7,3 +7,4 @@
 ## Stocks 
 * **End of Day US Stock Prices** https://www.quandl.com/data/EOD-End-of-Day-US-Stock-Prices
 * **Yahoo Finance** https://finance.yahoo.com/
+* **RENIXX Renewable Energy Industrial Index - World** https://www.renewable-energy-industry.com/stocks/
