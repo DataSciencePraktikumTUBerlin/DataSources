@@ -16,3 +16,4 @@
 * **Dynamic correlation pattern amongst alternative energy market for diversification opportunities** https://link.springer.com/article/10.1186/s40008-020-00197-2#Abs1
 * **Hedging Strategies of Green Assets against Dirty Energy Assets** https://www.researchgate.net/publication/342255967_Hedging_Strategies_of_Green_Assets_against_Dirty_Energy_Assets
 * **The Case for Investing in Energy Companies** https://www.marottaonmoney.com/the-case-for-investing-in-energy-companies/
+* **Co-movements between Renewable Energy, Oil & Gas, and Technology in Europe** https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8985956&fileOId=8985977
