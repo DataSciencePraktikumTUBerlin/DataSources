@@ -24,4 +24,6 @@ https://ourworldindata.org/grapher/investment-in-renewable-energy-by-technology
 https://ourworldindata.org/grapher/per-capita-renewables?time=2019
 
 # Question from Guillermo:
-Why do we think there is a correlation between investments and engineering?
+```diff
+- Why do we think there is a correlation between investments and engineering?
+```
