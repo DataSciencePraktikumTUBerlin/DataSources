@@ -27,3 +27,4 @@ https://ourworldindata.org/grapher/per-capita-renewables?time=2019
 ```diff
 - Why do we think there is a correlation between investments and engineering?
 ```
+R/ Because public reports in enhanced tehnical charateristics, e.g. increased *Energy conversion efficiency*, or government desicions on Energy affairs, e.g. *Asset investment in renewalbes*, represent relevant information for the investors to decide wehter or not to invest in this technologies and the companies behind them. Or at least that would be the logical chain of reasoning. On the other hand it may be more a matter of trust and social perception. That would be a main conclusion of our work.
